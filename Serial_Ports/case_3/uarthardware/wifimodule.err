@@ -1,0 +1,83 @@
+Warning[2073] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 46 : null-terminated initializer string too long
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 151 : suspicious pointer conversion
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 151 : suspicious pointer conversion
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 153 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 153 : type qualifier mismatch in assignment
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 154 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 163 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 171 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 179 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 186 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 194 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 201 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 208 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 215 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 222 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 229 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 236 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 243 : call of function without prototype
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 253 : suspicious pointer conversion
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 254 : suspicious pointer conversion
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 255 : suspicious pointer conversion
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 256 : suspicious pointer conversion
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 260 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 260 : type qualifier mismatch in assignment
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 262 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 270 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 274 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 275 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 276 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 304 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 311 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 314 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 322 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 324 : call of function without prototype
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 407 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 407 : type qualifier mismatch in assignment
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 408 : call of function without prototype
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 415 : call of function without prototype
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 424 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 424 : type qualifier mismatch in assignment
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 425 : call of function without prototype
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 434 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 434 : type qualifier mismatch in assignment
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 435 : call of function without prototype
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 442 : suspicious pointer conversion
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 446 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 446 : type qualifier mismatch in assignment
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 447 : call of function without prototype
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 481 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 482 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 483 : type qualifier mismatch in assignment
+Warning[2058] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 487 : call of function without prototype
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 488 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 505 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 505 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 514 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 514 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 516 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 516 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 524 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 524 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 526 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 526 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 538 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 538 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 540 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 540 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 548 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 548 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 550 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 550 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 558 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 558 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 560 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 560 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 568 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 568 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 570 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 570 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 578 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 578 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 580 : suspicious pointer conversion
+Warning[2066] C:\Users\RS KUMAR\Desktop\APSIS_PROJECT\AVCMI\uarthardware\wifimodule.c 580 : type qualifier mismatch in assignment

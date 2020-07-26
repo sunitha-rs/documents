@@ -1,0 +1,62 @@
+// ---------------------------------------------------------------------------
+// *                        www.apsis-solutions.com
+// *               Copyright (c) Apsis Solutions, Bangalore
+// *--------------------------------------------------------------------------
+// *    Project         : Generic
+// *    Module          : Project Main
+// *    Description     : Project Starts Here
+// *					  	  
+// *    Author          : Ajith Kirlaya
+// *    Workfile        : Projectmain.c
+// *    Revision        : 2.0
+// *    Last changed on : Date: 2017-10-08
+// *                     
+// *    Last changed by : Ajith Kirlaya
+// *
+// *--------------------------------------------------------------------------
+
+#include <p18f46k22.h>    
+#include <stdio.h> 
+
+void fnMain_Project()
+
+
+
+{
+ANSELC = 0X00;
+TRISC = 0X00;
+while(1)
+{
+LATC = 0XAA;
+LATC = 0X55;
+}
+}
+//{	
+//	unsigned char uchReciced_Data=0;
+//	unsigned int gunTemp=0;
+//	unsigned char guchTemp=0;
+//	
+//	printf("First Code..\n\r");
+//
+//	printf("Send A from Bluetooth To start\n\r");
+//
+//	while(1)
+//	{
+//	uchReciced_Data = uchfnReceive_Serial(UART1);
+//	
+//	printf("uchReciced_Data = %c\n\r",uchReciced_Data);
+//	}
+//	
+//	
+//
+//	while(1)
+//	{
+//		gunTemp =fnFieldValuesFromChannels(1);
+//
+//			printf(" Value = %d\r\n",gunTemp);
+//		delay_in_half_seconds(1);
+//			
+//	}
+//	
+//}
+//
